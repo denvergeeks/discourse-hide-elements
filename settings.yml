@@ -19,19 +19,19 @@ feed_one_two_enabled:
   description: disabling this hides the 2-column homepage feed
 
 feed_one_title:
-  default: Captured on Wyze
+  default: General
   description: custom title
 
 feed_one_category_slug:
-  default: /c/captured-on-wyze
+  default: /c/general
   description: source of feed content, /c/category-name for categories or /tags/tag-name for tags
 
 feed_two_title:
-  default: Ask the Community
+  default: Site Feedback
   description: custom title
 
 feed_two_category_slug:
-  default: /c/ask-the-community
+  default: /c/site-feedback
   description: source of feed content, /c/category-name for categories or /tags/tag-name for tags
 
 feed_three_enabled: 
@@ -39,7 +39,7 @@ feed_three_enabled:
    description: disabling this hides the 3-column homepage feed
 
 feed_three_title:
-  default: Help these Wyze Members
+  default: Meet Our Members
   description: custom title
 
 feed_thee_category_id:
