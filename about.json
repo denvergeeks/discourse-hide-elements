@@ -1,5 +1,6 @@
 {
   "name": "discourse-wyze-theme",
+  "component": true,
   "about_url": "https://github.com/wyzelabs/discourse-wyze-theme",
   "license_url": "URL",
   "assets": {
